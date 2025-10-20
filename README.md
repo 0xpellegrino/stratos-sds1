@@ -1,4 +1,4 @@
-<h1 align="center">Stratos SDS </h1>
+<h1 align="center">Stratos SS </h1>
 
 ![image](https://user-images.githubusercontent.com/101149671/181830792-fe8274cc-b1bc-4787-b5cc-2412dcaefb3a.png)
 
